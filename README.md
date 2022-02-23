@@ -2,9 +2,11 @@
 
 Hi! My name is Jungle! I am python and bot developer! 
 
-My projects: Jebideah(private)
-Barsic(https://github.com/jungledev1/barsicbotdiscord)
-Musician(private)
+My projects: 
+# Sakura(not open source)
+# Barsic(https://github.com/jungledev1/barsicbotdiscord)
+# Musician(not open source)
+# Jebideah(not open source)
 
-I love to learn, create bots and create games:)
+I love to learn, create bots:)
 
