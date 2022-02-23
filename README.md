@@ -2,7 +2,7 @@
 
 Hi! My name is Jungle! I am python and bot developer! 
 
-My projects: 
+## My projects: 
 # Sakura(not open source)
 # Barsic(https://github.com/jungledev1/barsicbotdiscord)
 # Musician(not open source)
