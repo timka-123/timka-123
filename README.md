@@ -10,3 +10,6 @@ Hi! My name is Jungle! I am python and bot developer!
 
 I love to learn, create bots:)
 
+## Support me: 
+https://qiwi.com/n/VAKZN
+
