@@ -24,6 +24,12 @@ Sakura - https://discord.gg/8SX7E7kNJf]
 
 Jebideah - https://discord.gg/CgfExxxsaz
 
-##### For Ukraine patriots: 
+### My social networks
 
-I am not crashing your cities and lives. Please, don`t ask me for this situation. I am out of politic. 
+**Twitter** - https://twitter.com/jungle88888
+
+**Discord** - https://discord.com/users/610839704186781747
+
+#### Donate me
+
+Qiwi - https://qiwi.ru/n/VAKZN
