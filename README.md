@@ -30,6 +30,10 @@ Jebideah - https://discord.gg/CgfExxxsaz
 
 **Discord** - https://discord.com/users/610839704186781747
 
+### My stats in GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jungledev1&show_icons=true&theme=radical)
+
 #### Donate me
 
 Qiwi - https://qiwi.ru/n/VAKZN
