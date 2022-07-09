@@ -32,7 +32,9 @@ Jebideah - https://discord.gg/CgfExxxsaz
 
 ### My stats in GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jungledev1&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=jungledev1&show_icons=true&theme=radical
+
+https://camo.githubusercontent.com/19a7fd1fd0adec61e484767451649748c819994a20d894c6fb66b366151d80f6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d43726576656f6f6c7573267468656d653d7261646963616c
 
 #### Donate me
 
