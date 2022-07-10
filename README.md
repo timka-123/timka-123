@@ -28,6 +28,10 @@ Jebideah - https://discord.gg/CgfExxxsaz
 
 **Discord** - https://discord.com/users/610839704186781747
 
+**Twitch** - https://twitch.tv/jungledev11
+
+**Telegram blog** - https://t.me/timka123blog
+
 ### My stats in GitHub
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jungledev1&show_icons=true&theme=radical)
