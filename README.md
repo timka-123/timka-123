@@ -4,7 +4,7 @@ My name is Timur, and I am 13 years old. I am Russian.
 
 I am student of 131 Lyceum in Kazan and I love programming:)
 
-I am currently bot developer, but I am learning to Java and Android developer
+I am currently bot developer, but I am learning to backend (golang)
 
 ### My projects 👾
 
@@ -12,9 +12,7 @@ Okean - https://discord.com/api/oauth2/authorize?client_id=955859011046101032&pe
 
 Musician - https://discord.com/api/oauth2/authorize?client_id=929803812070379551&permissions=3214592&scope=bot%20applications.commands (this link is not working, please, give Musician an administrator permission)
 
-Sakura - https://discord.com/oauth2/authorize?client_id=913085956763025439&permissions=8&scope=bot+applications.commands
-
-Jebideah - https://discord.com/oauth2/authorize?client_id=939761285766209607&scope=bot+applications.commands&permissions=8
+Jebideah - https://discord.com/oauth2/authorize?client_id=939761285766209607&scope=bot+applications.commands&permissions=8 (offline, require total rewrite)
 
 ### Support servers:
 
