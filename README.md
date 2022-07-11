@@ -18,8 +18,6 @@ Jebideah - https://discord.com/oauth2/authorize?client_id=939761285766209607&sco
 
 Okean and Musician - https://discord.gg/BdfFam9JPh
 
-Sakura - https://discord.gg/8SX7E7kNJf]
-
 Jebideah - https://discord.gg/CgfExxxsaz
 
 ### My social networks
