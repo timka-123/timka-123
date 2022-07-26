@@ -30,9 +30,13 @@ Jebideah - https://discord.gg/CgfExxxsaz
 
 **Telegram blog** - https://t.me/timka123blog
 
-### My stats in GitHub
+### My stats in GitHub 
 
-![stats](https://github-readme-stats.vercel.app/api?username=jungledev1&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=jungledev1&show_icons=true&theme=radical)]
+
+### My skills 💪
+
+[![My Skills](https://skillicons.dev/icons?i=python, discord, linux)](https://skillicons.dev)
 
 
 #### Donate me
