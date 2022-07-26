@@ -36,7 +36,7 @@ Jebideah - https://discord.gg/CgfExxxsaz
 
 ### My skills 💪
 
-[![My Skills](https://skillicons.dev/icons?i=python, discord, linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,discord,linux)](https://skillicons.dev)
 
 
 #### Donate me
