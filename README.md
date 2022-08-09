@@ -1,6 +1,6 @@
 ### Hi :v:
 
-My name is Timur, and I am 13 years old. I am Russian.
+My name is Timur, and I am 14 years old. I am Russian.
 
 I am student of 131 Lyceum in Kazan and I love programming:)
 
