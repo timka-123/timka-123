@@ -65,7 +65,7 @@ img {
 }
 
 .links {
-    margin-left: .8rem;
+    margin-top: .8rem;
     display: flex;
     justify-content: space-between;
 }
