@@ -2,8 +2,6 @@
 
 My name is Timur, and I am 14 years old. I am Russian.
 
-I am student of 131 Lyceum in Kazan and I love programming:)
-
 I am currently bot developer, but I am learning to backend (golang)
 
 ### My projects 👾
