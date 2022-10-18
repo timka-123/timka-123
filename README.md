@@ -24,7 +24,7 @@ Okean - https://discord.gg/BdfFam9JPh
 
 ### My stats in GitHub 
 
-![stats](https://github-readme-stats.vercel.app/api?username=jungledev1&show_icons=true&theme=radical)]
+![stats](https://github-readme-stats.vercel.app/api?username=timka-123&show_icons=true&theme=radical)]
 
 #### Donate me
 
