@@ -2,7 +2,7 @@
 
 My name is Timur, and I am 14 years old. I am Russian.
 
-I am currently bot developer, but I am learning to backend (golang)
+bot & web dev
 
 ### My projects 👾
 
@@ -19,8 +19,6 @@ Okean - https://discord.gg/BdfFam9JPh
 **Discord** - https://discord.com/users/610839704186781747
 
 **Twitch** - https://twitch.tv/jungledev11
-
-**Telegram blog** - https://t.me/timka123blog
 
 ### My stats in GitHub 
 
