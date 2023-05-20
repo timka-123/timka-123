@@ -10,7 +10,7 @@ Okean - https://discord.com/api/oauth2/authorize?client_id=955859011046101032&pe
 
 ### My stats in GitHub 
 
-![stats](https://github-readme-stats.vercel.app/api?username=timka-123&show_icons=true&theme=radical)]
+![stats](https://github-readme-stats.vercel.app/api?username=timka-123&show_icons=true&theme=radical)
 
 #### Donate me
 
