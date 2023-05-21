@@ -1,17 +1,23 @@
-### Hi :v:
+# average script kiddy
 
-My name is Timur
+[russian version](https://timka_bio.t.me)
+## My skills 
 
-bot & web dev
+[![My Skills](https://skillicons.dev/icons?i=git,python,mongodb,postgres,linux)](https://skillicons.dev)
 
-### My projects 👾
+## Some of my projects
 
-Okean - https://discord.com/api/oauth2/authorize?client_id=955859011046101032&permissions=8&scope=bot%20applications.commands
+* **Okean (not Ocean) Discord bot** - yet another multipurpose Discord bot. Currently in rewriting
 
-### My stats in GitHub 
+* **Yandex.Balaboba Telegram bot** - bot for [Yandex.Balaboba](https://yandex.ru/lab/yalm) with [opened sources](https://github.com/timka-123/yandex-balaboba-bot).
 
-![stats](https://github-readme-stats.vercel.app/api?username=timka-123&show_icons=true&theme=radical)
+* **Feedback bot in Telegram** - Telegram bot for fast and secure contact with Telegram channel admins and subs. [Sources](https://github.com/timka-123/feedback-bot).
 
-#### Donate me
+* **Speech-to-text Discord bot** - bot for translate voice message to text messages in Discord. Now with closed sources.
 
-Qiwi - https://qiwi.ru/n/VAKZN
+* And many, many another projects these made on order... For get info about these projects, go to my [Telegram portfolio](https://timka_portfolio.t.me) (in Russian)
+
+## Contacts
+
+[Telegram](https://t1wk4.t.me)
+
