@@ -3,7 +3,7 @@
 [russian version](https://timka_bio.t.me)
 ## My skills 
 
-[![My Skills](https://skillicons.dev/icons?i=git,python,mongodb,postgres,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,python,mongodb,postgres,linux,cloudflare)](https://skillicons.dev)
 
 ## Some of my projects
 
