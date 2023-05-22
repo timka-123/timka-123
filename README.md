@@ -7,7 +7,7 @@
 
 ## Some of my projects
 
-* **Okean (not Ocean) Discord bot** - yet another multipurpose Discord bot. Currently in rewriting
+* **Okean (not Ocean) Discord bot** - yet another multipurpose Discord bot. Currently in rewriting and closed sources (maybe I will open it but not now)
 
 * **Yandex.Balaboba Telegram bot** - bot for [Yandex.Balaboba](https://yandex.ru/lab/yalm) with [opened sources](https://github.com/timka-123/yandex-balaboba-bot).
 
