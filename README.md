@@ -19,5 +19,5 @@
 
 ## Contacts
 
-[Telegram](https://t1wk4.t.me)
+[Telegram](https://t1wk4.t.me), [Discord](https://discord.com/users/610839704186781747)
 
