@@ -21,3 +21,6 @@
 
 [Telegram](https://t1wk4.t.me), [Discord](https://discord.com/users/610839704186781747)
 
+## Wakatime
+<figure><embed src="https://wakatime.com/share/@e7dea917-fe28-46f1-92f9-13c9d487cf07/74f8d8ea-8d22-4eb2-b2a4-f967391d31fd.svg"></embed></figure>
+
