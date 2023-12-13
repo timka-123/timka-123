@@ -7,6 +7,8 @@
 
 ## Some of my projects
 
+* **ShortLink** - my practise in Web applications, written on [React](https://react.dev) and [Django](https://www.djangoproject.com). Available [here](https://timka.su)
+
 * **Okean (not Ocean) Discord bot** - yet another multipurpose Discord bot. Currently in rewriting and closed sources (maybe I will open it but not now)
 
 * **Yandex.Balaboba Telegram bot** - bot for [Yandex.Balaboba](https://yandex.ru/lab/yalm) with [opened sources](https://github.com/timka-123/yandex-balaboba-bot).
